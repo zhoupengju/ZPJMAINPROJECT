@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ZPJMAINPROJECT"
-  spec.version      = "1.0.0"
+  spec.version      = "0.0.1"
   spec.summary      = "A ZPJMAINPROJECT view used on iOS."
   spec.description  = <<-DESC
                       It is a ZPJMAINPROJECT view used on iOS, which implement by Objective-C.
